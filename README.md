@@ -1,1 +1,0 @@
-# simple-full-stack-app
